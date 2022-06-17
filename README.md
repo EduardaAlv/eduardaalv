@@ -1,8 +1,8 @@
 ### Hello World! Sou a Eduarda 👋
 
-- 🔭 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js entre outras tecnologias
-- 🌱 Estudando C#
-- 📫 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
+- 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js entre outras tecnologias
+- 👩‍🎓 Estudando C#
+- 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
 
 <div align="center">
   <a href="https://github.com/EduardaAlv">
