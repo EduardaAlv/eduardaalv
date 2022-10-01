@@ -4,7 +4,7 @@
 
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.
 - 👩‍🎓 Graduate student in Information Systems at PUC Minas.
-- 📧 Contact me by email: eduardasantosalveseduarda@gmail.com
+- 📧 Contact me by email: eduardasalv@outlook.com
 
 <h6>Português</h6>
 <h4>Console.WriteLine("Hello World!");</h4>
@@ -12,7 +12,7 @@
 
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
-- 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
+- 📧 Contate-me no e-mail: eduardasalv@outlook.com
 
 <div align="center">
   <a href="https://github.com/EduardaAlv">
