@@ -7,7 +7,7 @@
 - 📧 Contact me by email: eduardasalv@outlook.com
 
 <h5>Português</h5>
-<h4>Console.WriteLine("Hello World!");</h4>
+<h4>Console.WriteLine("Olá, mundo!");</h4>
 <h4>Sou a Eduarda 👋</h4>
 
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
