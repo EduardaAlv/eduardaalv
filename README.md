@@ -3,7 +3,7 @@
 <h4>I'm Eduarda 👋</h4>
 
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.
-- 👩‍🎓 Graduate student in Information Systems at PUC Minas.
+- 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
 - 📧 Contact me by email: eduardasalv@outlook.com
 
 <h5>Português</h5>
