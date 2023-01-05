@@ -1,6 +1,6 @@
 <h5>English</h5>
 <h4>Console.WriteLine("Hello World!");</h4>
-<h4>I'm Eduarda! 👋</h4>
+<h4>I'm Eduarda 👋</h4>
 
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.
 - 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
@@ -8,7 +8,7 @@
 
 <h5>Português</h5>
 <h4>Console.WriteLine("Olá, mundo!");</h4>
-<h4>Sou a Eduarda! 👋</h4>
+<h4>Sou a Eduarda 👋</h4>
 
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
