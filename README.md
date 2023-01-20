@@ -13,6 +13,7 @@
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
 - 📧 Contate-me no e-mail: eduardasalv@outlook.com
+
 <div align="center">
   <a href="https://github.com/eduardaalv">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
