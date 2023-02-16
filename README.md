@@ -14,13 +14,8 @@
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
 - 📧 Contate-me no e-mail: eduardasalv@outlook.com
 
-
-
-<div align="center">
-  <a href="https://github.com/eduardaalv">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/eduarda-santos-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduarda-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -33,8 +28,16 @@
   <img align="center" alt="Eduarda-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
  
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/eduarda-santos-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <br>
+   <br>
+
+<div align="center">
+  <a href="https://github.com/eduardaalv">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
   
   ![Snake animation](https://github.com/EduardaAlv/EduardaAlv/blob/output/github-contribution-grid-snake.svg)
 </div>
