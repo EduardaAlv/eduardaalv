@@ -1,8 +1,11 @@
 <h5>English</h5>
 <h4>Console.WriteLine("Hello World!");</h4>
 <h4>I'm Eduarda! 👋</h4>
+
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.
+
 - 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
+
 - 📧 Contact me by email: eduardasalv@outlook.com
 <h5>Português</h5>
 <h4>Console.WriteLine("Olá, mundo!");</h4>
@@ -12,7 +15,7 @@
 
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
 
-- 📧 Contate-me no e-mail: eduardasalv@outlook.com.
+- 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
 
 
 
