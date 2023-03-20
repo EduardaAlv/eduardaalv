@@ -7,9 +7,12 @@
 <h5>Português</h5>
 <h4>Console.WriteLine("Olá, mundo!");</h4>
 <h4>Sou a Eduarda! 👋</h4>
+
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
+
 - 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
-- 📧 Contate-me no e-mail: eduardasalv@outlook.com
+
+- 📧 Contate-me no e-mail: eduardasalv@outlook.com.
 
 
 
