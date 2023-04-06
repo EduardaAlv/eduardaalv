@@ -7,6 +7,8 @@
 - 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
 
 - 📧 Contact me by email: eduardasantosalveseduarda@gmail.com
+<br>
+<br>
 <h5>Português</h5>
 <h4>Console.WriteLine("Olá, mundo!");</h4>
 <h4>Sou a Eduarda! 👋</h4>
@@ -17,6 +19,8 @@
 
 - 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
 
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/eduardaalv">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaalv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
