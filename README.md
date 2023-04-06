@@ -6,7 +6,7 @@
 
 - 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
 
-- 📧 Contact me by email: eduardasalv@outlook.com
+- 📧 Contact me by email: eduardasantosalveseduarda@gmail.com
 <h5>Português</h5>
 <h4>Console.WriteLine("Olá, mundo!");</h4>
 <h4>Sou a Eduarda! 👋</h4>
