@@ -4,7 +4,7 @@
  
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.
 
-- 👩‍🎓 Undergraduate student in Information Systems at PUC Minas.
+- 👩‍🎓  Graduated in Information Systems at PUC Minas.
 
 - 📧 Contact me by email: eduardasantosalveseduarda@gmail.com
 
@@ -14,7 +14,7 @@
 
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
 
-- 👩‍🎓  Graduanda em Sistemas de Informação na PUC Minas.
+- 👩‍🎓  Graduada em Sistemas de Informação na PUC Minas.
 
 - 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
 <br>
