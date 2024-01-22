@@ -29,7 +29,7 @@
   <img align="center" alt="Eduarda-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Eduarda-VSCode" height="30" width="30" src="https://code.visualstudio.com/assets/images/code-stable.png" />
   <img align="center" alt="Eduarda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Eduarda-Sql" height="30" width="40" src="https://camo.githubusercontent.com/d493ce02c2227c94dea2137303d298279ef4bd757c691e009ab991f2c33b0219/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3235353833322f73716c2e737667" />
+  <img align="center" alt="Eduarda-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
   <img align="center" alt="Eduarda-TSQL" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5GNkQYXw2-n0lInUQMI7FUT6B9zWU6Hz9HcBBms6rvVV-RzOWB4IsSCw01dwbSt59C4&usqp=CAU" />
   <img align="center" alt="Eduarda-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Eduarda-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
