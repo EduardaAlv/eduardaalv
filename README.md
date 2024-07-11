@@ -1,7 +1,7 @@
 <h5>English</h5> 
 <h4>Console.WriteLine("What makes a technology professional great is not losing sight of the future!");</h4>  
 <h4>I'm Eduarda! 👋</h4>       
-       
+          
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.   
    
 - 👩‍🎓  Graduated in Information Systems at PUC Minas.
