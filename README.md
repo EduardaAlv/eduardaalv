@@ -12,7 +12,7 @@
 <h4>Console.WriteLine("O que faz um profissional da tecnologia ser grande é não perder o futuro de vista!");</h4>
 <h4>Sou a Eduarda! 👋</h4>
 
-- 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias.
+- 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias. 
 
 - 👩‍🎓  Graduada em Sistemas de Informação na PUC Minas.
 
