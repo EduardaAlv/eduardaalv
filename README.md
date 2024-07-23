@@ -6,7 +6,7 @@
      
 - 👩‍🎓  Graduated in Information Systems at PUC Minas.   
  
-- 📧 Contact me by email: eduardasantosalveseduarda@gmail.com
+- 📧 Contact me by email: eduardasantosalveseduarda@gmail.com 
 
 <h5>Português</h5>
 <h4>Console.WriteLine("O que faz um profissional da tecnologia ser grande é não perder o futuro de vista!");</h4>
