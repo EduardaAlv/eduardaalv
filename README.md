@@ -30,7 +30,7 @@
   <img align="center" alt="Eduarda-VSCode" height="30" width="30" src="https://code.visualstudio.com/assets/images/code-stable.png" />
   <img align="center" alt="Eduarda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eduarda-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
-  <img align="center" alt="Eduarda-TSQL" height="30" width="30" src="https://logodix.com/logo/1982164.png" />
+  <img align="center" alt="Eduarda-TSQL" height="33" width="42" src="https://github.com/EduardaAlv/eduardaalv/blob/main/t-sql.png" />
   <img align="center" alt="Eduarda-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Eduarda-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
