@@ -14,7 +14,8 @@
 
 - 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias. 
 
-- 👩‍🎓  Graduada em Sistemas de Informação na PUC Minas. 
+-
+ 👩‍🎓  Graduada em Sistemas de Informação na PUC Minas. 
 
 - 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
 <br> 
@@ -29,7 +30,7 @@
   <img align="center" alt="Eduarda-VSCode" height="30" width="30" src="https://code.visualstudio.com/assets/images/code-stable.png" />
   <img align="center" alt="Eduarda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eduarda-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
-  <img align="center" alt="Eduarda-TSQL" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5GNkQYXw2-n0lInUQMI7FUT6B9zWU6Hz9HcBBms6rvVV-RzOWB4IsSCw01dwbSt59C4&usqp=CAU" />
+  <img align="center" alt="Eduarda-TSQL" height="30" width="30" src="https://etlforma.com/wp-content/uploads/2024/11/tsql.webp" />
   <img align="center" alt="Eduarda-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Eduarda-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
