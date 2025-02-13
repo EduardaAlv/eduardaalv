@@ -2,7 +2,7 @@
 <h4>Console.WriteLine("What makes a technology professional great is not losing sight of the future!");</h4>      
 <h4>I'm Eduarda! 👋</h4>         
           
-- 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, Vue.js, among other technologies.      
+- 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, among other technologies.      
      
 - 👩‍🎓  Graduated in Information Systems at PUC Minas.   
  
@@ -12,7 +12,7 @@
 <h4>Console.WriteLine("O que faz um profissional da tecnologia ser grande é não perder o futuro de vista!");</h4>
 <h4>Sou a Eduarda! 👋</h4> 
 
-- 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, Vue.js, entre outras tecnologias. 
+- 👩‍💻 Atualmente trabalho com .NET, C#, SQL e T-SQL, Javascript, entre outras tecnologias. 
 
 -
  👩‍🎓  Graduada em Sistemas de Informação na PUC Minas. 
@@ -32,7 +32,6 @@
   <img align="center" alt="Eduarda-Sql" height="30" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" />
   <img align="center" alt="Eduarda-TSQL" height="33" width="42" src="https://github.com/EduardaAlv/eduardaalv/blob/main/t-sql.png" />
   <img align="center" alt="Eduarda-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Eduarda-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
  
 <div style="display: inline_block"><br>
