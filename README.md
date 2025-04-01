@@ -5,7 +5,7 @@
 - 👩‍💻 I currently work with .NET, C#, SQL and T-SQL, Javascript, among other technologies.      
      
 - 👩‍🎓  Graduated in Information Systems at PUC Minas.   
- 
+  
 - 📧 Contact me by email: eduardasantosalveseduarda@gmail.com 
 
 <h5>Português</h5>
