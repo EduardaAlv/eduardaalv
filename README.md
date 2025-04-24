@@ -22,7 +22,7 @@
   <a href="https://github.com/eduardaalv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalv&layout=compact&langs_count=7&theme=dracula"/>
 </div>   
-   
+    
 <div style="display: inline_block"><br>   
   <img align="center" alt="Eduarda-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Eduarda-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
