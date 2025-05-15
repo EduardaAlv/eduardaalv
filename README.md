@@ -17,7 +17,7 @@
 - 👩‍🎓  Graduada em Sistemas de Informação na PUC Minas. 
 
 - 📧 Contate-me no e-mail: eduardasantosalveseduarda@gmail.com
-<br> 
+<br>  
 <div align="left"> 
   <a href="https://github.com/eduardaalv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaalv&layout=compact&langs_count=7&theme=dracula"/>
